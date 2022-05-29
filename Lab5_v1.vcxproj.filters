@@ -97,5 +97,14 @@
     <None Include="shadowMap.vert">
       <Filter>Файлы ресурсов\Shaders</Filter>
     </None>
+    <None Include="shadowCubeMap.frag">
+      <Filter>Файлы ресурсов\Shaders</Filter>
+    </None>
+    <None Include="shadowCubeMap.geom">
+      <Filter>Файлы ресурсов\Shaders</Filter>
+    </None>
+    <None Include="shadowCubeMap.vert">
+      <Filter>Файлы ресурсов\Shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>
